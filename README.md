@@ -1,4 +1,4 @@
-The strategy used in the provided code use **data from Yahoo Finance** and a daily data the code is best suited for a tick-data and to be used for HFT.
+The strategy used in the provided code use data from Yahoo Finance and a daily data the code is best suited for a tick-data and to be used for HFT.
 For the sake of simplicity I have used yfinance library and to access the tick-data one can plug in its API
 
 **Quote Class:**
